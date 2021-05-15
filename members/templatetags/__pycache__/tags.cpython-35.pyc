@@ -1,0 +1,7 @@
+
+
+ю<©Zб   г               @   s>   d  d l  m Z e j ѓ  Z e j d d ѓ d d „  ѓ Z d S)й    )ЪtemplateЪnameЪadd_cssc             C   s   |  j  d d | i ѓ S)z/Removes all values of arg from the given stringЪattrsЪclass)Ъ	as_widget)ЪfieldЪcss© r
+   ъM/home/omkarpathak/Desktop/Gym-Software/Gymnasium/members/templatetags/tags.pyr      s    N)Ъdjangor   ЪLibraryЪregisterЪfilterr   r
+   r
+   r
+   r   Ъ<module>   s   
